@@ -185,7 +185,7 @@ while start_over == 0:
 
                     # If not returning.
                     if owl_choice == 0:
-                        print("You progress through the difficult path with significatn effort. After traversing a short distance, you behold the glowing, white spirit of a great horned owl\n"
+                        print("You progress through the difficult path with significant effort. After traversing a short distance, you behold the glowing, white spirit of a great horned owl\n"
                               "perched in a tree before you. It observes you in silence, undisturbed. You wonder what wisdom it has, being a timeless spirit.\n"
                               "You must decide to try and communicate with the forest spirit owl or continue on the path.\n")
                         owl_choice = input("Enter one option: speak to owl / continue\n\n")
